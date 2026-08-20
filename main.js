@@ -3,15 +3,15 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://www.facebook.com/share/p/14uKgfAnTZd/", "_blank")
+    window.open("https://www.facebook.com/share/g/1GrQwzrWsr/", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://www.facebook.com/share/g/1HAGTStoyr/");
+    window.open("https://www.facebook.com/share/g/1JXFeYhDYT/");
 }
 
 function openFacebookPage() {
-    window.open("https://facebook.com/groups/1407008471329470/");
+    window.open("https://www.facebook.com/share/g/1GrQwzrWsr/");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
